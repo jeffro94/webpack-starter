@@ -10,5 +10,9 @@
   "description": "",
   "dependencies": {
     "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
   }
 }
