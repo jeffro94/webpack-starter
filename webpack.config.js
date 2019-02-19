@@ -5,6 +5,7 @@ module.exports = {
     entry: path.join(__dirname, 'index.js'),
     output: {
         filename: 'main.js',
+        path: path.join(__dirname, 'dist'),
         publicPath: 'dist'
     },
     module: {
